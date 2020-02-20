@@ -15,5 +15,5 @@ function initializePage() {
 
 function likeHandler() {
 	ga('create', 'UA-158820165-1', 'auto');
-	ga("send", "event", like, click);
+	ga("send", "event", "like", "click");
 }
