@@ -14,5 +14,5 @@ function initializePage() {
 }
 
 function likeHandler() {
-	ga("send", "event", Like, Click);
+	ga("send", "event", like, click);
 }
