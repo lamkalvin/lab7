@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	// your code here
-	$("#likeBtn").click(likeHandler);
+	$(".likeBtn").click(likeHandler);
 }
 
 function likeHandler() {
